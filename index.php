@@ -6,7 +6,13 @@
     <title>Document</title>
     <main> pagina principal 
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <a href="reportes.php">Ver Reportes</a>
+        <br>
         <a href="dashboard.php">Ver Dashboard</a>
             
     </main>
